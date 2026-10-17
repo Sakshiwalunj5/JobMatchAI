@@ -120,8 +120,8 @@ Semantic Similarity Score
 ## 📥 Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/Dhanashri1010/smart-resume-matcher.git
-cd smart-resume-matcher
+git clone https://github.com/Sakshiwalunj5/JobMatchAI.git
+cd JobMatchAI
 ```
 
 ---
